@@ -201,7 +201,7 @@ Analytics & URL Tracking
 
 ## Demo Video
 
-📹 Demo video link: Coming Soon
+📹 Demo video link: https://youtu.be/SGNRPShQBT8?feature=shared
 
 ---
 
