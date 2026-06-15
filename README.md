@@ -213,4 +213,4 @@ This project is licensed under the MIT License.
 
 ## Hackathon Submission
 
-This project was developed as part of a hackathon organized by (https://katomaran.com).
+This project was developed as part of a hackathon organized by https://katomaran.com .
